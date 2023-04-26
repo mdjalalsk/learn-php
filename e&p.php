@@ -1,4 +1,4 @@
 <?php
-echo "hello world";//faster than print 
-print"hello world";// slower than echo
+echo "hello world";//faster than print and no reurn value
+print"hello world";// slower than echo and reurn  value
 ?>
